@@ -1,5 +1,5 @@
 {
-  "name": "mail_sender",
+  "name": "mail_sms_app",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
